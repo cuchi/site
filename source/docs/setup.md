@@ -60,7 +60,7 @@ Application data. The [EJS](http://embeddedjs.com/), [Stylus](http://learnboost.
 
 ### source
 
-Source folder. This is where you put your site's content. Hexo ignores hidden files and files or folders whose names are prefixed with `_` (underscore) - except the `_posts` folder. Renderable files (e.g. Markdown, HTML) will be processed and put into the `public` folder, while other files will simply be copied.
+Source folder. This is where you put your site's content. Hexo ignores hidden files or folders whose names are prefixed with `_` (underscore) - except the `_posts` folder. Renderable files (e.g. Markdown, HTML) will be processed and put into the `public` folder, while other files will simply be copied.
 
 ### themes
 

@@ -1,4 +1,7 @@
 en: English
+pt-br:
+  name: Português (BR)
+  disqus_lang: pt_BR
 zh-tw:
   name: 正體中文
   disqus_lang: zh_TW
